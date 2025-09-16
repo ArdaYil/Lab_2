@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardayildirim/Programming/RiscV/Lab_2/lab2-files/output/print-primes'
+relocations:     []
+...
